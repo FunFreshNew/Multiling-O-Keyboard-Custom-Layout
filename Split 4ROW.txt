@@ -4,13 +4,13 @@
     "main":[
       "qwert[4D:[HOME][PGUP][END][PGDN]]yuiop",
       "asdfg[4D:[W.LEFT][ALL][W.RIGHT][S.WORD]]hjkl",
-      "[Shift]zxcvb[][4D:[Left][Up][Right][Down]][][4D:[UNDO][COPY][REDO][PASTE]][]nm[DEL]",
+      "[Shift]zxcvb[4D:[Left][Up][Right][Down]][4D:[UNDO][COPY][REDO][PASTE]]nm[DEL]",
       "[Tool][ALTGR:,][Space][SYM:.][Enter]"
     ],
     "sym":[
       "12345[4D:[HOME][PGUP][END][PGDN]]67890",
-      "~`@#±[][4D:[W.LEFT][ALL][W.RIGHT][S.WORD]][]/\\'\"",
-      "…<>!;[][4D:[Left][Up][Right][Down]][][4D:[UNDO][COPY][REDO][PASTE]][]:?",
+      "~`@#±[4D:[W.LEFT][ALL][W.RIGHT][S.WORD]][]/\\'\"",
+      "…<>!;[4D:[Left][Up][Right][Down]][4D:[UNDO][COPY][REDO][PASTE]]:?",
       "[LOCK][ALTGR:,][Space][SYM:.][Enter]"
     ]
   }
