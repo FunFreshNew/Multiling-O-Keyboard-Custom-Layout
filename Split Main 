@@ -1,0 +1,17 @@
+{
+  "title":"qwerty (split)",
+   "onScreen":{
+   "main":[
+      "qwert [4D:1[UNDO] [REDO] ][][4D:2 [PGUP] [PGDN]][][4D:3[SEARCH] [TAB] ][] yuiop",
+      "asdfg [4D:4[Home] [End] ][][4D:5[LEFT][UP][RIGHT][DOWN]][][4D:6[Del] [Del→] ][] hjkl'",
+      "[Shift]zxcv [4D:7[CUT] [COPY]  ][][4D:8[COPY] [PASTE] ][][4D:9[|←Del] [TRANSLATE] ][] bnm?[Del]",
+      "[Tool][ALTGR:,][Space][][][][][4D:*    ][][4D:0 [ALL] [123]][][4D:#    ][][Space][][][][][SYM:.][Enter]"
+    ],
+    "sym":[
+      "!@#$%  [4D:1[UNDO] [REDO] ][][4D:2 [PGUP] [PGDN]][][4D:3[SEARCH] [TAB] ][]  ^&*()",
+      "~`{}\\  [4D:4[Home] [End] ][][4D:5[LEFT][UP][RIGHT][DOWN]][][4D:6[Del] [Del→] ][]  _-=|+",
+      "[Shift]…<>—  [4D:7[CUT] [COPY]  ][][4D:8[COPY] [PASTE] ][][4D:9[|←Del] [TRANSLATE] ][]  /\":;[Del]",
+      "[LOCK][ALTGR:,][Space][][][][][4D:*    ][][4D:0 [ALL] [123]][][4D:#    ][][Space][][][][][SYM:.][Enter]"
+    ]
+  }
+} 
