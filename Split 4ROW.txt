@@ -10,7 +10,7 @@
     "sym":[
       "12345[4D:[HOME][PGUP][END][PGDN]]67890",
       "~`@#±[4D:[W.LEFT][ALL][W.RIGHT][S.WORD]]/\\'\"",
-      "…<>!;[4D:[Left][Up][Right][Down]][4D:[UNDO][COPY][REDO][PASTE]]:?",
+      "[Shift]…<>!;[4D:[Left][Up][Right][Down]][4D:[UNDO][COPY][REDO][PASTE]]:?[DEL]",
       "[LOCK][ALTGR:,][Space][SYM:.][Enter]"
     ]
   }
