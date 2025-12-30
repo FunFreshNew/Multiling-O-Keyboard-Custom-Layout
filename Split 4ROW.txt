@@ -1,5 +1,5 @@
 {
-  "title":"Split 4ROW",
+  "title":"split 4row",
    "onScreen":{
    "main":[
       "qwert[4D:[HOME][PGUP][END][PGDN]]yuiop",
